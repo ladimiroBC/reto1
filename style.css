@@ -1,5 +1,4 @@
-
-.container{
+.container {
     max-width: 1440px;
     min-width: 375px;
     height: 100vh;    
@@ -10,7 +9,7 @@
     align-items: center;
 }
 
-.boxtarjeta{
+.boxtarjeta {
     max-width: 273.2px;
     height: auto;
     background-color: hsl(0, 0%, 100%);
@@ -18,37 +17,37 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-           
 }
 
-.boximg{
+.boximg {
     width: 90%;
     height: 60%;
     margin-top: 6%;
 }
 
-img{
+img {
     max-width: 100%;
     height: auto;
     border-radius: 3%;
-
 }
 
-.boxtext{
+.boxtext {
     width: 80%;
     height: 20%;
     margin-top: 2%;
     text-align: center;
 }
 
-.text:nth-child(1){
+.text:nth-child(1) {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
 }
-.text:nth-child(2){
+
+.text:nth-child(2) {
     font-family: 'Outfit', sans-serif;
     font-size: small;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
+    padding-bottom: 8%;
 }
 
